@@ -10,7 +10,6 @@ title:            Dmitry Avershin
 tagline:          'My awesome blog'
 description:      'Passionate software engineer'
 url:              http://dmitraver.github.io
-baseurl:          /
 
 author:
   name:           'Mark Otto'
