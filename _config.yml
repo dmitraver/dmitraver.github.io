@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            Dmitry Avershin
 tagline:          'My awesome blog'
-description:      'Passionate software engineer'
+description:      'Passionate software engineer, interested in functional programming, distributed systems and building cool things.'
 url:              http://dmitraver.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dmitry Avershin'
+  url:            https://github.com/dmitraver
 
 paginate:         5
 
