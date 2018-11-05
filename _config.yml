@@ -11,6 +11,9 @@ tagline:          'My awesome blog'
 description:      'Passionate software engineer, interested in functional programming, distributed systems and building cool things.'
 url:              http://dmitraver.github.io
 
+# tracking
+google_analytics: UA-128610108-1
+
 author:
   name:           'Dmitry Avershin'
   url:            https://github.com/dmitraver
